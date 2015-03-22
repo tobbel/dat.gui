@@ -1,0 +1,4 @@
+name: datgui
+description: Port of dat.gui for Dart
+dependencies:
+  browser: any
