@@ -6,7 +6,8 @@ var EVENT_MAP = {
     'KeyboardEvents': ['keydown']
   };
 
-//  var EVENT_MAP_INV = {};
+  var EVENT_MAP_INV = {};
+  // TODO: common.each
 //  common.each(EVENT_MAP, function(v, k) {
 //    common.each(v, function(e) {
 //      EVENT_MAP_INV[e] = k;

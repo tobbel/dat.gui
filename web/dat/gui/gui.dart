@@ -2,7 +2,7 @@ library GUI;
 import 'dart:html';
 
 part '../dom/dom.dart';
-
+part '../utils/common.dart';
 
 class GUI {
   Element domElement;
